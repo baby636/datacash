@@ -24,6 +24,6 @@
   ],
   "devDependencies": {
     "mocha": "^5.1.1",
-    "uglify-es": "^3.3.9"
+    "uglify-es": "^3.3.10"
   }
 }
