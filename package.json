@@ -23,7 +23,7 @@
     "dist"
   ],
   "devDependencies": {
-    "mocha": "^5.1.1",
+    "mocha": "^10.1.0",
     "uglify-es": "^3.3.9"
   }
 }
